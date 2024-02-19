@@ -10,29 +10,23 @@
 
 ## Projets
 
-1. **Projet Un**
-   - Description : Aperçu du projet.
-   - Technologies : Liste des technologies utilisées.
-   - [Dépôt GitHub](lien)
-   - [Démo en direct](lien)
-
-2. **Projet Deux**
-   - Description : Aperçu du projet.
+1. **Projet Raytracing**
+   - Description : Ce projet consistait à compléter un squelette de code sur le raytracing, m'ayant permis d'acquérir de nouvelles connaissances dans l'imagerie numérique. Par la suite nous devions regrouper les données générées (images, temps d'exécution...) dans une base de données afin de les afficher dans les applications Java.
    - Technologies : Liste des technologies utilisées.
    - [Dépôt GitHub](lien)
    - [Démo en direct](lien)
 
 ## Compétences
 
-- Langages de programmation : Java, Python, JavaScript
+- Langages de programmation : Java, Python, JavaScript, C++, C
 - Développement Web : HTML, CSS, React
 - Base de données : MySQL, MongoDB
 - Outils : Git, VS Code, Docker
 
 ## Formation
 
-- **Licence en Informatique**
-  - Nom de l'Université, Année de Diplôme
+- **BUT Informatique**
+  - Université de Limoges, 2ème année
  
 ## Expérience Professionnelle
 
@@ -42,8 +36,7 @@
  
 ## Contact
 
-- Email : votre.email@example.com
-- LinkedIn : [Votre Profil LinkedIn](https://www.linkedin.com/in/votre-profil)
-- Twitter : [@VotreNomTwitter](https://twitter.com/votre-handle)
+- Email : kim.van@etu.unilim.fr
+- LinkedIn : [Votre Profil LinkedIn]([https://www.linkedin.com/in/votre-profil](https://www.linkedin.com/in/kim-van-rijswijk-43454b291/))
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connectez--vous-blue)](https://www.linkedin.com/in/votre-profil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connectez--vous-blue)]([https://www.linkedin.com/in/votre-profil](https://www.linkedin.com/in/kim-van-rijswijk-43454b291/)https://www.linkedin.com/in/kim-van-rijswijk-43454b291/)
