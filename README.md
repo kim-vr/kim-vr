@@ -1,20 +1,18 @@
-# VAN RIJSWIJK Kim
+## À propos de moi
 
-## Table des matières
+Je m'appelle Kim van Rijswijk, je suis actuellement en deuxième année de BUT Informatique à l'IUT du Limousin. Je suis une personne calme et sérieuse qui aime apprendre dans tous les domaines.
 
-- [Projets](#projets)
-- [Compétences](#compétences)
-- [Formation](#formation)
-- [Expérience Professionnelle](#expérience-professionnelle)
-- [Contact](#contact)
+## Compétences
+
+Au cours de ces dernières années d'étude, j'ai pu utiliser de nombreux langages informatiques:
+
+Java, C++/C, HTML, CSS, JavaScript, Bash, Kotlin, MySQL, Rust, .NET Maui
 
 ## Projets
 
 1. **Projet Raytracing**
    - Description : Ce projet consistait à compléter un squelette de code sur le raytracing, m'ayant permis d'acquérir de nouvelles connaissances dans l'imagerie numérique. Par la suite nous devions regrouper les données générées (images, temps d'exécution...) dans une base de données afin de les afficher dans les applications Java.
-   - Technologies : Liste des technologies utilisées.
-   - [Dépôt GitHub](lien)
-   - [Démo en direct](lien)
+   - Langages : C++, Java 
 
 ## Compétences
 
